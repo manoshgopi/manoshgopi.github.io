@@ -1,0 +1,21 @@
+{
+	
+	"id" : 1,
+	"Name" : "A",
+	"Company" : "ABC",
+	"Size" : [
+	"Small",
+	"Mediam",
+	"Large"
+	],
+	"amount" : {
+		"id" : 1,
+		"Color": "Blue",
+		"Details":{
+			"Small": 100,
+			"Mediam" : 200,
+			"Large" : 300
+		}
+	}
+
+}
